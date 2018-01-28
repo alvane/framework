@@ -21,9 +21,9 @@
  * SOFTWARE.
  */
 
-namespace Core {
+namespace Valley.Core {
 
-    public interface Model {
+    public class Model {
 
     }
 }

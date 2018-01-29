@@ -23,7 +23,17 @@
 
 namespace Valley.Core {
 
+    /**
+     * 
+     */
     public class View {
+
+        /**
+         * [View description]
+         */
+        public Model () {
+            info("View Class Initialized");
+        }
 
     }
 }

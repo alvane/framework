@@ -23,7 +23,34 @@
 
 namespace Valley.Core {
 
+    /**
+     * 
+     */
     public class Controller {
 
+        /**
+         * 
+         */
+        private static Controller instance;
+
+
+        /**
+         * [Controller description]
+         */
+        public Controller () {
+            instance = this;
+            info("Controller Class Initialized");
+        }
+
+        /**
+         * Get the singleton
+         *
+         * @static
+         * @return  object
+         */
+        public static Controller get_instance ()
+        {
+            return instance;
+        }
     }
 }

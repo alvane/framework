@@ -31,7 +31,7 @@ namespace Valley.Core {
         /**
          * [View description]
          */
-        public Model () {
+        public View () {
             info("View Class Initialized");
         }
 

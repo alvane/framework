@@ -11,9 +11,5 @@
             "email": "robertsanseries@gmail.com",
         }
     ],
-    "require": {
-        "vala": ">=",
-        "meson": ">= 0.40"
-    },
-    "bin": ["bin/valley"],
+    "require": { }
 }

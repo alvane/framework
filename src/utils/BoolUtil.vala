@@ -1,7 +1,7 @@
 /*
  * MIT License
  *
- * Copyright (c) 2018 Valley Framework
+ * Copyright (c) 2018 Alvane Framework
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -21,7 +21,7 @@
  * SOFTWARE.
  */
 
-namespace Valley.Utils {
+namespace Alvane.Utils {
 
     public class BoolUtil {
 

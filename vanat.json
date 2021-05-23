@@ -1,8 +1,8 @@
 {
-    "name": "valley-framework/framework",
-    "description": "The Valley Framework.",
+    "name": "alvane-framework/framework",
+    "description": "The Alvane Framework.",
     "version": "0.1.0",
-    "keywords": ["framework", "valley"],
+    "keywords": ["framework", "alvane"],
     "type": "project",
     "license": "MIT",
     "authors": [
